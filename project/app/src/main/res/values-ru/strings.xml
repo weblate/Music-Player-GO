@@ -181,4 +181,7 @@
     <string name="error_builtin_eq">Произошла ошибка! Используйте системный эквалайзер (если он существует)!</string>
     <string name="locale_finnish">Финский</string>
     <string name="locale_punjabi">Панджаби</string>
+    <string name="locale_serbian">Сербский</string>
+    <string name="locale_bakhtiari">Лори-Бахтиари</string>
+    <string name="locale_odia">Ория</string>
 </resources>

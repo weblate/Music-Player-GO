@@ -181,4 +181,7 @@
     <string name="eq_pref_title">बिल्ट-इन ईकव्लाईज़र</string>
     <string name="filters_clear">फ़िल्टर साफ़ करें\?</string>
     <string name="locale_punjabi">पंजाबी</string>
+    <string name="locale_odia">उड़िया</string>
+    <string name="locale_serbian">सर्बियाई</string>
+    <string name="locale_bakhtiari">लूरी बख्तियारी</string>
 </resources>
